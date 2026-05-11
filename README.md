@@ -8,7 +8,10 @@ Policing strategy also evolved, moving away from “broken windows” enforcemen
 
 Finally, broader criminal justice reforms—such as bail reform and shifts in prosecutorial practices that deprioritized minor offenses—further reduced both arrests and case processing for low-level drug crimes [5]
 
-<img width="1244" height="718" alt="image" src="https://github.com/user-attachments/assets/ce8eea4b-143a-446e-bb32-e2fc2836bb17" />
+<br>
+
+<img width="1236" height="717" alt="image" src="https://github.com/user-attachments/assets/3e1d233d-5123-48b1-a588-005a34ee893a" />
+
 
 
 
