@@ -25,6 +25,9 @@ From 2021 through 2024, however, the composition of arrests shifted substantiall
 
 ### Race and Gender
 
+<img width="1000" height="757" alt="image" src="https://github.com/user-attachments/assets/e0a26411-69b6-4e63-890a-1c35c7f8babc" />
+
+
 
 ### Citations
 [1] Landmark Decision: Judge Rules NYPD Stop and Frisk Practices Unconstitutional, Racially Discriminatory: https://ccrjustice.org/home/press-center/press-releases/landmark-decision-judge-rules-nypd-stop-and-frisk-practices
