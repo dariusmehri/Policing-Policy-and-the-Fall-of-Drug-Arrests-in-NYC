@@ -14,6 +14,15 @@ Finally, broader criminal justice reforms—such as bail reform and shifts in pr
 
 ### Offense Classifications
 
+From 2006 through 2020 (see below graph), the overall proportion of drug offense classifications remained relatively stable, with lower-level marijuana and controlled substance offenses consistently accounting for the largest share of arrests. The most common category during this period was Marijuana Possession 4 & 5, which primarily consisted of misdemeanor-level offenses involving small quantities or public-view possession. The second most common category was Controlled Substance Possession 7, another largely misdemeanor offense typically associated with low-level possession of narcotics or other controlled substances. More serious felony offenses followed, including Controlled Substance Possession with Intent to Sell 3, Controlled Substance Sale 3, and Marijuana Sale 4 & 5, reflecting enforcement activity related to drug distribution and street-level sales.
+
+From 2021 through 2024, however, the composition of arrests shifted substantially following marijuana legalization and the decline of marijuana enforcement. During this period, the top arrest categories were all controlled substance offenses, with Controlled Substance Possession ranking first, followed by Controlled Substance Possession with Intent to Sell, and Controlled Substance Sale 3. This shift suggests that NYPD drug enforcement became increasingly concentrated on harder drugs and more serious narcotics-related offenses, many of which are felony-level crimes, rather than lower-level marijuana possession offenses that had previously dominated arrest activity.
+
+<img width="1144" height="684" alt="image" src="https://github.com/user-attachments/assets/d8d562bf-1b74-4106-9eba-c9eb382d801f" />
+
+
+
+
 ### Race and Gender
 
 
