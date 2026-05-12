@@ -29,6 +29,12 @@ From 2021 through 2024, however, the composition of arrests shifted substantiall
 
 #### Race
 
+The racial composition of NYPD drug arrests remained relatively stable across all four time periods (2006–2010, 2011–2015, 2016–2020, and 2021–2024). Black individuals consistently accounted for roughly half of all arrests, followed by White Hispanic individuals at approximately 26%, White individuals at 12%, and Black Hispanic individuals at 10%. The only notable demographic shift was among Asian/Pacific Islander individuals, whose share of arrests increased from approximately 1.2% in 2006–2010 to 4.7% by 2021–2024. Overall, despite substantial declines in total arrests, the proportional racial distribution of arrests changed relatively little over time.
+
+The most significant change across the study period was the dramatic reduction in the total number of drug arrests. Arrests declined from approximately 520,226 during 2006–2010 to just 53,531 during 2021–2024, representing a major shift in policing practices, criminal justice policy, and enforcement priorities. As a result, substantially fewer individuals from all racial and ethnic groups entered the criminal justice system for drug-related offenses. This decline coincided with broader statewide and national criminal justice reforms, reduced emphasis on low-level drug enforcement, and changing public attitudes toward drug use and marijuana enforcement in particular.
+
+A second major shift involved the sharp decline in marijuana-related arrests. During the earlier time periods, marijuana offenses represented a substantial share of drug arrests, particularly among Black individuals. However, by 2016–2020 marijuana arrests had already declined significantly, including an approximate 7% drop among Black arrestees compared to the 2006–2015 period. By 2021–2024, marijuana arrests had become nearly nonexistent following marijuana decriminalization and eventual legalization in New York. This change substantially altered the composition of drug arrests, shifting enforcement away from low-level marijuana possession toward controlled substance offenses involving narcotics and other dangerous drugs.
+
 <img width="935" height="722" alt="image" src="https://github.com/user-attachments/assets/dc8c9a36-f32c-45c6-84e4-618080f6d4fa" />
 
 
