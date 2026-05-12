@@ -25,7 +25,8 @@ From 2021 through 2024, however, the composition of arrests shifted substantiall
 
 ### Race and Gender
 
-<img width="1000" height="757" alt="image" src="https://github.com/user-attachments/assets/e0a26411-69b6-4e63-890a-1c35c7f8babc" />
+<img width="1000" height="773" alt="image" src="https://github.com/user-attachments/assets/13e6cfe6-1257-4499-8eea-5b1599d1d167" />
+
 
 
 
