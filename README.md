@@ -18,6 +18,8 @@ From 2006 through 2020 (see below graph), the overall proportion of drug offense
 
 From 2021 through 2024, however, the composition of arrests shifted substantially following marijuana legalization and the decline of marijuana enforcement. During this period, the top arrest categories were all controlled substance offenses, with Controlled Substance Possession ranking first, followed by Controlled Substance Possession with Intent to Sell, and Controlled Substance Sale 3. This shift suggests that NYPD drug enforcement became increasingly concentrated on harder drugs and more serious narcotics-related offenses, many of which are felony-level crimes, rather than lower-level marijuana possession offenses that had previously dominated arrest activity.
 
+<br>
+
 <img width="1144" height="684" alt="image" src="https://github.com/user-attachments/assets/d8d562bf-1b74-4106-9eba-c9eb382d801f" />
 
 
