@@ -25,9 +25,7 @@ From 2021 through 2024, however, the composition of arrests shifted substantiall
 
 
 
-### Race and Gender
-
-#### Race
+### Race
 
 The racial composition of NYPD drug arrests remained relatively stable across all four time periods (2006–2010, 2011–2015, 2016–2020, and 2021–2024). Black individuals consistently accounted for roughly half of all arrests, followed by White Hispanic individuals at approximately 26%, White individuals at 12%, and Black Hispanic individuals at 10%. The only notable demographic shift was among Asian/Pacific Islander individuals, whose share of arrests increased from approximately 1.2% in 2006–2010 to 4.7% by 2021–2024. Overall, despite substantial declines in total arrests, the proportional racial distribution of arrests changed relatively little over time.
 
