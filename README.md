@@ -33,6 +33,8 @@ The most significant change across the study period was the dramatic reduction i
 
 A second major shift involved the sharp decline in marijuana-related arrests. During the earlier time periods, marijuana offenses represented a substantial share of drug arrests, particularly among Black individuals. However, by 2016–2020 marijuana arrests had already declined significantly, including an approximate 7% drop among Black arrestees compared to the 2006–2015 period. By 2021–2024, marijuana arrests had become nearly nonexistent following marijuana decriminalization and eventual legalization in New York. This change substantially altered the composition of drug arrests, shifting enforcement away from low-level marijuana possession toward controlled substance offenses involving narcotics and other dangerous drugs.
 
+<br>
+
 <img width="935" height="722" alt="image" src="https://github.com/user-attachments/assets/dc8c9a36-f32c-45c6-84e4-618080f6d4fa" />
 
 
