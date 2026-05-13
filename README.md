@@ -20,7 +20,9 @@ From 2021 through 2024, however, the composition of arrests shifted substantiall
 
 <br>
 
-<img width="1144" height="684" alt="image" src="https://github.com/user-attachments/assets/d8d562bf-1b74-4106-9eba-c9eb382d801f" />
+<img width="1093" height="642" alt="image" src="https://github.com/user-attachments/assets/3417c6bc-ee54-4ea3-918c-aa7757a70049" />
+
+
 
 
 
