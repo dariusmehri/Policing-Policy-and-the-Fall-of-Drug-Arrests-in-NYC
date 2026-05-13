@@ -22,6 +22,7 @@ From 2021 through 2024, however, the composition of arrests shifted substantiall
 
 <img width="1093" height="642" alt="image" src="https://github.com/user-attachments/assets/3417c6bc-ee54-4ea3-918c-aa7757a70049" />
 
+<br>
 
 
 
@@ -38,6 +39,8 @@ A second major shift involved the sharp decline in marijuana-related arrests. Du
 <br>
 
 <img width="935" height="722" alt="image" src="https://github.com/user-attachments/assets/dc8c9a36-f32c-45c6-84e4-618080f6d4fa" />
+
+<br>
 
 
 ### Spatial Analytics
