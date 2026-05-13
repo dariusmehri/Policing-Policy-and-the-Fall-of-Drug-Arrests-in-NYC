@@ -38,7 +38,8 @@ A second major shift involved the sharp decline in marijuana-related arrests. Du
 
 <br>
 
-<img width="935" height="722" alt="image" src="https://github.com/user-attachments/assets/dc8c9a36-f32c-45c6-84e4-618080f6d4fa" />
+<img width="943" height="754" alt="image" src="https://github.com/user-attachments/assets/4374c692-453c-4177-946e-3cb65e4ded24" />
+
 
 <br>
 
