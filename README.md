@@ -48,7 +48,7 @@ A second major shift involved the sharp decline in marijuana-related arrests. Du
 
 ### Spatial Analytics
 <br>
-<img width="600" height="550" alt="Marijuana" src="https://github.com/user-attachments/assets/d5ffa51b-f49a-4811-9732-bb615fcccdfd" />
+<img width="800" height="750" alt="Marijuana" src="https://github.com/user-attachments/assets/d5ffa51b-f49a-4811-9732-bb615fcccdfd" />
 
 
 
