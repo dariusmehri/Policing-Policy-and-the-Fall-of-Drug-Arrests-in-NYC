@@ -47,6 +47,13 @@ A second major shift involved the sharp decline in marijuana-related arrests. Du
 
 
 ### Spatial Analytics
+#### Marijuana
+The marijuana arrest hotspots between 2006 and 2010 largely reflected the geography of proactive policing during the peak stop-and-frisk era in New York City. Northern Manhattan — especially Washington Heights and Inwood, which recorded more than 16,000 marijuana arrests — became a major hotspot due to dense population, major transit corridors, and intensive narcotics enforcement. Similar patterns appeared across the South Bronx, including Highbridge, Concourse Village, University Heights, Mount Hope, Fordham, and Parkchester, where concentrated poverty, large public housing developments, and aggressive street-level policing contributed to high arrest volumes.
+
+In Brooklyn, East New York, Brownsville, and Bedford-Stuyvesant emerged as major hotspots due to intensive quality-of-life policing and high stop-and-frisk activity, while Jamaica, St. Albans, and Hollis became the primary hotspots in Queens. Importantly, these hotspot patterns likely reflected policing concentration as much as marijuana use itself, since national research consistently found relatively similar marijuana usage rates across racial groups during this period.
+
+Across the later time periods — 2011–2015, 2016–2020, and 2021–2024 — the geographic hotspots remained relatively consistent, but steadily faded as marijuana arrests sharply declined citywide following policy reforms, reduced stop-and-frisk activity, and marijuana decriminalization/legalization. By 2021–2024, the remaining hotspots had become extremely small in scale: Jamaica, Hollis, and St. Albans recorded only 39 arrests combined, while University Heights, Fordham, and Mount Hope recorded 64 arrests, illustrating the dramatic collapse of low-level marijuana enforcement compared to the peak years of the late 2000s.
+
 <br>
 <img width="800" height="750" alt="Marijuana" src="https://github.com/user-attachments/assets/df8addf8-0575-45fe-aabf-922d12357dd1" />
 
