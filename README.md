@@ -70,6 +70,14 @@ Across the later time periods — 2011–2015, 2016–2020, and 2021–2024 — 
 
 #### Other Drugs
 
+The spatial distribution of arrests involving other controlled substances closely mirrored the geography of marijuana enforcement, with major hotspots concentrated in Northern Manhattan, the South Bronx, Central Brooklyn, and Southeast Queens. Persistent hotspots included Washington Heights and Inwood in Manhattan; Highbridge, Concourse Village, University Heights, Mount Hope, Fordham, and Parkchester in the Bronx; East New York, Brownsville, and Bedford-Stuyvesant in Brooklyn; and Jamaica, St. Albans, and Hollis in Queens.
+
+One important difference from marijuana arrests was the emergence of a significant hotspot on Staten Island’s North Shore, particularly Stapleton and Port Richmond. Unlike marijuana enforcement, which was heavily associated with stop-and-frisk and low-level public possession, arrests involving other controlled substances were more closely tied to longstanding narcotics markets, opioid use, and chronic drug enforcement patterns. The Staten Island hotspot likely reflects the borough’s disproportionate impact from the opioid and heroin epidemic during the 2000s and 2010s, particularly in economically distressed North Shore communities.
+
+Over time, although arrests involving other drugs declined citywide, the geographic hotspots became more concentrated rather than disappearing entirely. As overall enforcement levels dropped, Chelsea and Clinton in Manhattan increasingly emerged as a major hotspot relative to the rest of the city. This shift may reflect changing patterns in narcotics activity, nightlife and entertainment related drug markets, as well as intensified policing around transit hubs, commercial corridors, and high-density mixed-use areas in Midtown Manhattan. Unlike marijuana arrests, which nearly disappeared by the 2020s, enforcement involving other controlled substances remained more spatially persistent and concentrated in a smaller number of longstanding hotspot neighborhoods.
+
+<br>
+
 <img width="800" height="750" alt="Other Drugs" src="https://github.com/user-attachments/assets/61c8016b-6a28-4273-82de-fb15dbde05f4" />
 
 
