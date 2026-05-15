@@ -45,6 +45,15 @@ A second major shift involved the sharp decline in marijuana-related arrests. Du
 
 ### Age and Gender
 
+The demographic composition of NYPD drug arrests remained remarkably stable between 2006 and 2024, despite the dramatic overall decline in arrest volume during this period. On average, approximately 87% of all drug arrests involved males, while females accounted for roughly 13%, reflecting the broader gender imbalance commonly observed in criminal justice and street-level drug enforcement data.
+
+Age distributions also remained relatively consistent over time. Individuals between the ages of 25 and 44 represented the largest share of drug arrests at roughly 45%, followed by ages 18–24 at 27%, and ages 45–64 at 22%. However, important differences emerged when comparing marijuana arrests to other drug categories. Marijuana arrests were heavily concentrated among younger individuals, with arrests among those ages 18–24 occurring at roughly twice the rate of other drug arrests within that age group. This likely reflected the visibility of low-level marijuana enforcement among younger populations during the peak stop-and-frisk era, particularly in public spaces, transit corridors, and street-level encounters.
+
+In contrast, arrests involving other controlled substances were disproportionately concentrated among older age groups. Among individuals ages 45–64, arrests for other drugs occurred at approximately 4.5 times the rate of marijuana arrests. This pattern suggests a fundamental distinction between marijuana enforcement — which was often tied to low-level public possession and proactive policing — and arrests involving harder controlled substances, which were more associated with longstanding addiction patterns, narcotics markets, and chronic drug enforcement activity among older populations. 
+
+Together, these findings show that while the scale of NYPD drug arrests changed dramatically over time, the underlying demographic patterns remained relatively stable.
+
+<image here>
 
 ### Spatial Analytics
 #### Marijuana
