@@ -70,7 +70,7 @@ Across the later time periods — 2011–2015, 2016–2020, and 2021–2024 — 
 
 #### Other Drugs
 
-<img width="600" height="550" alt="Other Drugs" src="https://github.com/user-attachments/assets/61c8016b-6a28-4273-82de-fb15dbde05f4" />
+<img width="800" height="750" alt="Other Drugs" src="https://github.com/user-attachments/assets/61c8016b-6a28-4273-82de-fb15dbde05f4" />
 
 
 
