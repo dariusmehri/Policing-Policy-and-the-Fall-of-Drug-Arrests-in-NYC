@@ -53,7 +53,12 @@ In contrast, arrests involving other controlled substances were disproportionate
 
 Together, these findings show that while the scale of NYPD drug arrests changed dramatically over time, the underlying demographic patterns remained relatively stable.
 
-image here
+<br>
+
+<img width="803" height="311" alt="image" src="https://github.com/user-attachments/assets/0c8e35aa-92d0-4bfa-ab67-e7cdf0e7f7bc" />
+
+<br>
+
 
 ### Spatial Analytics
 #### Marijuana
